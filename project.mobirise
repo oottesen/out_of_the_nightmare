@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 65,
+    "uniqCompNum": 67,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -169,7 +169,7 @@
             "showButtons": false
           },
           "title": "OUT OF THE NIGHTMARE",
-          "text": "\u001bOn the 12th of December 2013, the motorway in Aleppo was hit by a cluster of bombs. Only ten metres away from the centre of the impact was Maan Alrahim, a young taxi driver and father of three who would spend the following year on the verge of death.<br><br>Having finally escaped Syria, he tells his story.",
+          "text": "\u001bOn the 12th of December 2013, a cluster of bombs his the motorway in Aleppo. Only ten metres away from the centre of the impact was Maan Alrahim, a young taxi driver and father of three who would spend the following year on the verge of death.<br><br>Having finally escaped Syria, he tells his story.",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -252,17 +252,21 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
+              "src": "@PROJECT_PATH@/assets/images/img-1-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
           "_params": {
-            "showText": false
+            "showText": true
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "text": "Maan Alrahim (right) and his close friend Ibrahim Esmail (left) met in Norway after fleeing the Syrian war"
         },
         {
           "_tags": [
@@ -282,7 +286,7 @@
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-b",
+          "_anchor": "image1-1u",
           "media": {
             "image": {
               "active": true,
@@ -298,9 +302,9 @@
             }
           },
           "_params": {
-            "showText": false
+            "showText": true
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "text": "Taken close to Maan's home in the small coastal town of Fosnavåg"
         },
         {
           "_tags": [
@@ -404,7 +408,7 @@
           "title2": "'The loss of our family will be like dying a thousand times'",
           "subtitle2": "News",
           "caption2": "Two identical twins who fled Syria at 17 and faced death while travelling to their family in the UK have been left devastated after the Home Office has denied them residency in the UK, treating them as \"criminals\".",
-          "button2": "<a data-app-btn=\"true\" href=\"https://oottesen.github.io/an_endless_journey/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://oottesen.github.io/an_endless_journey/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">M\u001b\u001bORE</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -453,6 +457,35 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1t",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/a1-open-2000x959.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "\"LIKE DYING A THOUSAND TIMES\"",
+          "text": "Two identical twins who fled Syria at 17 and faced death while travelling to their family in the UK have been left devastated after the Home Office has denied them residency in the UK, treating them as \"criminals”.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     }
